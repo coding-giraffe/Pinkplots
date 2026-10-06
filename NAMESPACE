@@ -1,1 +1,2 @@
 exportPattern("^[[:alpha:]]+")
+export(pink_regression)
